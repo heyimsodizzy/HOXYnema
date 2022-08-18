@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="title">
-        홈시네마
+        혹시네마
       </div>
       <div className='menu'>
         <p>홈</p>
